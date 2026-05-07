@@ -50,4 +50,4 @@ Future Improvements
 
 Connect with Me
 
-- GitHub: [github.com/BhagyaSalwathura611]
+- GitHub: github.com/BhagyaSalwathura611
